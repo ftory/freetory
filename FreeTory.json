@@ -1,0 +1,9 @@
+{
+  "name": "Free Tory",
+  "symbol": "FreeTory",
+  "description": "FreeTory is a meme coin collectible that brings awareness to the Free Tory movement.\n\nTorynomics:\n70% locked 10 years\n20% in LP\n10% For listing liquidity\n0% dev supply",
+  "image": "https://raw.githubusercontent.com/ftory/freetory/main/freetory.png",
+  "extensions": {
+    "twitter": "https://x.com/torylanez"
+  }
+}
